@@ -1,2 +1,3 @@
 # OdinProject_Forms
-Formvalidation assignment
+Intermediate HTML and CSS course 
+Form validation assignment
